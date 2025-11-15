@@ -1,5 +1,5 @@
-# JohnDoe
-A Responsive Free One Page Portfolio Website template
+# Evan Garcia 
+A Responsive One Page Portfolio Website template
 
 
 
